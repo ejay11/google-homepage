@@ -1,0 +1,2 @@
+Google Homepage
+This is a replica of Google's Homepage, created by following The Odin Project's curriculum. This page was created using HTML, CSS, and Firefox's Dev tools. It is an introductory project. 
